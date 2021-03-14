@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nadundesilva/nadundesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently,
+- Leading a Team working on Observability of a Cloud Platform at WSO2
+- Working as a Senior Software Engineer at WSO2
 
-Here are some ideas to get you started:
+🎶 In my free time I,
+- Learn about Machine Learning & Cloud Technologies
+- Listen to music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Reach me at:
+- [Email](nadunrds@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nadundesilva)
+- [Facebook](https://www.facebook.com/nadunrds)
+- [Instagram](https://www.instagram.com/nadunrds)
