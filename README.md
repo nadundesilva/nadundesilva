@@ -13,3 +13,5 @@
 - [LinkedIn](https://www.linkedin.com/in/nadundesilva)
 - [Facebook](https://www.facebook.com/nadunrds)
 - [Instagram](https://www.instagram.com/nadunrds)
+
+[![Nadun De Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadundesilva&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://nadundesilva.github.io)
