@@ -9,9 +9,31 @@
 - Listen to music
 
 📬 Reach me at:
-- [Email](nadunrds@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/nadundesilva)
-- [Facebook](https://www.facebook.com/nadunrds)
-- [Instagram](https://www.instagram.com/nadunrds)
+<div>
+    <a href="mailto:nadunrds@gmail.com">
+        <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/gmail.png">
+    </a>
+     
+    <a href="https://www.linkedin.com/in/nadundesilva">
+        <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/linkedin.png">
+    </a>
+     
+    <a href="https://medium.com/@nadundesilva">
+        <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/medium.png">
+    </a>
+     
+    <a href="https://www.facebook.com/nadunrds">
+        <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/facebook.png">
+    </a>
+     
+    <a href="https://www.instagram.com/nadunrds">
+        <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/instagram.png">
+    </a>
+     
+    <a href="https://twitter.com/nadunrds">
+        <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/twitter.png">
+    </a>
+</div>
+<br/><br/>
 
 [![Nadun De Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadundesilva&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://nadundesilva.github.io)
