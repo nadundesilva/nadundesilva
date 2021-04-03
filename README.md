@@ -34,6 +34,10 @@
         <img width="50" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/twitter.png">
     </a>
 </div>
+<br/>
+<a href="https://nadundesilva.github.io">
+    <img width="150" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/view-my-website.png">
+</a>
 <br/><br/>
 
 [![Nadun De Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadundesilva&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&custom_title=GitHub%20Stats)](https://nadundesilva.github.io)
