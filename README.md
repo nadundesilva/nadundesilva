@@ -5,7 +5,7 @@
 - Working as a Senior Software Engineer at WSO2
 
 🎶 In my free time I,
-- Learn about Machine Learning & Cloud Technologies
+- Learn about Deep Learning & Cloud Technologies
 - Listen to music
 
 📬 Reach me at:
