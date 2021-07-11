@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💻 I’m currently,
-- Leading a Team working on Observability of a Cloud Platform at WSO2
+- Leading The Observability Team of [Choreo](https://wso2.com/choreo) at WSO2
 - Working as a Senior Software Engineer at WSO2
 
 🎶 In my free time I,
