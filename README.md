@@ -41,3 +41,5 @@
 <br/><br/>
 
 [![Nadun De Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadundesilva&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry&custom_title=GitHub%20Stats)](https://nadundesilva.github.io)
+
+<a href="https://codetrace.com/users/nadundesilva"><img src="https://codetrace.com/widget/nadundesilva" width="440" height="100" /></a>
