@@ -2,7 +2,7 @@
 
 💻 I’m currently,
 - Leading The Observability Team of [Choreo](https://wso2.com/choreo) at WSO2
-- Working as a Senior Software Engineer at WSO2
+- Working as an Associate Technical Lead / Software Engineer at WSO2
 
 🎶 In my free time I,
 - Learn about Deep Learning & Cloud Technologies
