@@ -35,7 +35,7 @@
     </a>
 </div>
 <br/>
-<a href="https://nadundesilva.github.io">
+<a href="https://nadundesilva.com">
     <img width="150" src="https://raw.githubusercontent.com/nadundesilva/nadundesilva/main/images/view-my-website.png">
 </a>
 <br/><br/>
