@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 💻 I’m currently,
-- Leading The Observability Team of [Choreo](https://wso2.com/choreo) at WSO2
-- Working as an Associate Technical Lead / Software Engineer at WSO2
+- Working as a Lead Software Engineer at [McCrae Tech](https://www.mccrae.tech/).
+- Leading the AWS Infrastructure of the Indexity Product.
 
-🎶 In my free time I,
+🎶 In my free time, I,
 - Learn about Deep Learning & Cloud Technologies
 - Listen to music
 
